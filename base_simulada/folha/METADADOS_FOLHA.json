@@ -1,0 +1,17 @@
+{
+ "cadastro": 1942,
+ "ativos_31122025": 1752,
+ "lancamentos_folha": 61426,
+ "obrigacoes": 9160,
+ "total_obrigacoes": 88753000.0,
+ "custo_pessoal_2025_simulado": 284734640.24328,
+ "plr_inferida": 32511764.71,
+ "erros": {
+  "F01": 6,
+  "F02": 9,
+  "F03": 8,
+  "F04": 30,
+  "F05": 12,
+  "F06": 25
+ }
+}

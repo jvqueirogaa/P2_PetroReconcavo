@@ -1,0 +1,12 @@
+﻿tipo_erro;descricao;teste;inseridos;detectados_pelo_teste;verdadeiros_positivos;nao_detectados;detectados_de_outro_tipo_inserido;falsos_positivos;taxa_deteccao;efeito_inserido
+E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);T01_DUPLICIDADE;160;160;160;0;0;0;1,0;6737989,18
+E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);T02_CORTE;46;46;46;0;0;0;1,0;2502284,3600000003
+E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);T03_VCL_NEGATIVO;40;40;40;0;0;0;1,0;-530782,38
+E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);T04_RECALCULO_DEPRECIACAO;70;115;70;0;45;0;1,0;1511583,7799999998
+E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;T05_BAIXADO_COM_SALDO;63;63;63;0;0;0;1,0;2553787,67
+E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);T06_ALMOX_SEM_MOVIMENTO_5A;95;95;95;0;0;0;1,0;0,0
+E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);T07_MAKER_CHECKER;620;627;620;0;7;0;1,0;0,0
+E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);T08_CAMPO_NAO_CADASTRADO;35;35;35;0;0;0;1,0;1234406,07
+E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);MUS (inspecao documental);97;5;2;95;3;0;0,020618556701030927;9172612,04
+E10;Ordem em andamento sem movimentacao ha mais de 2 anos;T09_ANDAMENTO_PARADO_2A;45;45;45;0;0;0;1,0;0,0
+E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;T10_DATA_ANTERIOR_CONSTITUICAO;30;30;30;0;0;0;1,0;0,0

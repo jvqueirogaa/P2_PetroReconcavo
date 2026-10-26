@@ -1,0 +1,6 @@
+_work/
+_to_delete/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+fontes/texto/

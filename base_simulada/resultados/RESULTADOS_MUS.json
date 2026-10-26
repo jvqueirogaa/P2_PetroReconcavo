@@ -1,0 +1,44 @@
+{
+ "parametros": {
+  "MG": 31500000.0,
+  "pct_ME": 0.65,
+  "RA": 0.05,
+  "RI": 1.0,
+  "RC": 1.0,
+  "pct_IE": 0.1,
+  "ME": 20475000.0,
+  "IT": 20475000.0,
+  "IE": 2047500.0
+ },
+ "mus": {
+  "RD": 0.05,
+  "coluna_tabela": 0.05,
+  "FC": 3.0,
+  "FEE": 1.6,
+  "IT": 20475000.0,
+  "IE": 2047500.0,
+  "I": 5733000.0,
+  "VC_populacao": 6171370101.38,
+  "n_populacao": 517770,
+  "n_max": 1076.4643470050585,
+  "ponto_partida": 3429906.8381743724,
+  "n_pontos": 1076,
+  "n_itens_distintos": 772,
+  "n_estrato_superior": 56,
+  "valor_amostra": 2348534050.85,
+  "n_erros": 5,
+  "n_erros_inferior": 5,
+  "PB": 17199000.0,
+  "IMP": 21426739.363312706,
+  "IA": 11756568.66489642,
+  "LSI": 50382308.02820913,
+  "conclusao": "NAO ACEITAR SEM TRABALHO ADICIONAL (LSI > IT)",
+  "n_subavaliacoes": 0
+ },
+ "validacao": {
+  "incorrecao_projetada_MUS": 21426739.363312706,
+  "LSI": 50382308.02820913,
+  "superavaliacao_total_inserida": 23712663.099999998,
+  "LSI_cobre_erro_real": "SIM"
+ }
+}

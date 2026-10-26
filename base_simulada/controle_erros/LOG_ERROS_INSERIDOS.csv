@@ -1,0 +1,1302 @@
+﻿seq;tipo_erro;descricao;campo_alterado;valor_original;valor_inserido;id_registro;efeito_monetario_R$
+1;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;506390;copia;IMB-0000676;20972,82
+2;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;267264;copia;IMB-0007748;3485,91
+3;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;19240;copia;IMB-0009115;153753,33
+4;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;287322;copia;IMB-0015853;229,34
+5;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;199768;copia;IMB-0020712;13204,21
+6;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;315013;copia;IMB-0022000;368,52
+7;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;202154;copia;IMB-0022818;16505,57
+8;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;345725;copia;IMB-0031758;1716,9
+9;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;503762;copia;IMB-0032615;225701,05
+10;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;282399;copia;IMB-0033499;16074,47
+11;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;146067;copia;IMB-0040963;6430,18
+12;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;309932;copia;IMB-0051577;807,06
+13;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;330580;copia;IMB-0053686;9803,3
+14;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;181389;copia;IMB-0057296;21,27
+15;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;210954;copia;IMB-0067313;19134,65
+16;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;138589;copia;IMB-0067614;78732,99
+17;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;292277;copia;IMB-0069260;1174,27
+18;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;77843;copia;IMB-0069327;99959,4
+19;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;374002;copia;IMB-0069357;4536,03
+20;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;451131;copia;IMB-0069487;1210,71
+21;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;203317;copia;IMB-0070836;28888,65
+22;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;452918;copia;IMB-0071900;4362,06
+23;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;296158;copia;IMB-0073370;5020,96
+24;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;454193;copia;IMB-0074030;2899,54
+25;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;145071;copia;IMB-0081236;167,96
+26;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;442914;copia;IMB-0088716;6421,22
+27;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;313091;copia;IMB-0091061;1839,1
+28;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;20693;copia;IMB-0093694;949,66
+29;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;425487;copia;IMB-0094369;919,05
+30;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;473983;copia;IMB-0094783;81,91
+31;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;455190;copia;IMB-0095632;19036,91
+32;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;272577;copia;IMB-0105612;1692,06
+33;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;161331;copia;IMB-0108496;18499,56
+34;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;100548;copia;IMB-0109542;1529,81
+35;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;16972;copia;IMB-0118291;89921,6
+36;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;367928;copia;IMB-0118607;4125,77
+37;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;189366;copia;IMB-0128806;10971,75
+38;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;279139;copia;IMB-0129302;1602,05
+39;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;341861;copia;IMB-0130671;1150,63
+40;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;372400;copia;IMB-0133100;240,38
+41;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;307021;copia;IMB-0134085;3700,02
+42;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;410758;copia;IMB-0139900;1260,75
+43;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;426810;copia;IMB-0143037;1012,46
+44;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;350450;copia;IMB-0144826;1706,6
+45;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;524205;copia;IMB-0147785;45935,91
+46;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;80246;copia;IMB-0150211;12813,05
+47;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;305540;copia;IMB-0167410;4232,98
+48;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;491751;copia;IMB-0168830;0,0
+49;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;199082;copia;IMB-0168932;0,0
+50;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;338732;copia;IMB-0178064;13105,52
+51;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;357391;copia;IMB-0178253;487,33
+52;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;386076;copia;IMB-0180780;4155,09
+53;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;209549;copia;IMB-0208400;11726,25
+54;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;182326;copia;IMB-0208700;116,89
+55;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;426449;copia;IMB-0212103;2439,81
+56;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;283854;copia;IMB-0212352;3013,5
+57;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;452522;copia;IMB-0213320;1759,71
+58;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;334085;copia;IMB-0217212;6057,38
+59;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;450444;copia;IMB-0219533;292,55
+60;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;421618;copia;IMB-0220192;2656,33
+61;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;511888;copia;IMB-0223118;12712,41
+62;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;416961;copia;IMB-0223186;395,97
+63;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;136018;copia;IMB-0223812;5476,93
+64;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;362451;copia;IMB-0224659;3460,07
+65;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;331259;copia;IMB-0226880;1517,25
+66;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;530451;copia;IMB-0227012;21219,6
+67;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;168559;copia;IMB-0228176;9950,92
+68;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;97874;copia;IMB-0228976;126848,36
+69;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;325783;copia;IMB-0232081;24,32
+70;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;33419;copia;IMB-0237933;26079,3
+71;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;391688;copia;IMB-0246207;5046,98
+72;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;245833;copia;IMB-0250428;2891,44
+73;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;429053;copia;IMB-0253922;1298,6
+74;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;297745;copia;IMB-0254231;3074,45
+75;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;508423;copia;IMB-0254963;48530,8
+76;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;511118;copia;IMB-0259899;40822,53
+77;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;224362;copia;IMB-0260810;1630,52
+78;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;509735;copia;IMB-0261574;3180,3
+79;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;94191;copia;IMB-0262098;1479340,84
+80;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;510967;copia;IMB-0268348;753,24
+81;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;260291;copia;IMB-0270563;12094,56
+82;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;383766;copia;IMB-0276536;940,48
+83;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;371733;copia;IMB-0277125;5383,96
+84;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;403891;copia;IMB-0277697;5136,2
+85;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;360176;copia;IMB-0280601;674,63
+86;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;431375;copia;IMB-0281573;526,43
+87;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;280624;copia;IMB-0285115;346,7
+88;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;211881;copia;IMB-0286029;3060,56
+89;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;445444;copia;IMB-0287824;5950,61
+90;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;503727;copia;IMB-0288301;118,28
+91;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;461143;copia;IMB-0312033;334,11
+92;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;42564;copia;IMB-0314349;5355,48
+93;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;201042;copia;IMB-0322003;16201,41
+94;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;200809;copia;IMB-0334345;11870,75
+95;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;162366;copia;IMB-0339907;273119,88
+96;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;498009;copia;IMB-0340134;685,68
+97;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;382674;copia;IMB-0341427;1963,93
+98;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;498394;copia;IMB-0342234;17760,58
+99;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;266712;copia;IMB-0347143;7398,81
+100;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;375113;copia;IMB-0347927;169,23
+101;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;449837;copia;IMB-0356133;4160,68
+102;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;226853;copia;IMB-0364806;1063,41
+103;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;476856;copia;IMB-0366669;485,54
+104;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;359227;copia;IMB-0367546;5191,32
+105;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;341488;copia;IMB-0368668;11788,56
+106;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;486599;copia;IMB-0370040;1249,95
+107;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;416985;copia;IMB-0371513;6899,34
+108;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;495066;copia;IMB-0373115;3219,02
+109;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;237411;copia;IMB-0374611;210,44
+110;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;396763;copia;IMB-0374797;1535,65
+111;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;484311;copia;IMB-0377516;157,32
+112;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;349533;copia;IMB-0378879;3069,06
+113;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;355946;copia;IMB-0381741;64351,15
+114;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;342354;copia;IMB-0383385;2258,15
+115;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;307051;copia;IMB-0386986;5599,56
+116;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;284289;copia;IMB-0387970;3026,82
+117;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;80441;copia;IMB-0390030;295,34
+118;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;482788;copia;IMB-0392528;314,34
+119;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;174035;copia;IMB-0392621;16497,21
+120;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;308888;copia;IMB-0394414;717,44
+121;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;277572;copia;IMB-0397007;12066,43
+122;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;495204;copia;IMB-0401354;620,74
+123;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;398920;copia;IMB-0403959;620,71
+124;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;80891;copia;IMB-0411647;7395,07
+125;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;92526;copia;IMB-0411817;102,93
+126;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;131069;copia;IMB-0417639;25,04
+127;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;19742;copia;IMB-0417735;3805,92
+128;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;346505;copia;IMB-0418079;5256,77
+129;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;308685;copia;IMB-0419609;643,59
+130;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;230947;copia;IMB-0425337;433,68
+131;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;127824;copia;IMB-0425730;254,59
+132;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;281972;copia;IMB-0431287;646,73
+133;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;317464;copia;IMB-0432762;3240,52
+134;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;212229;copia;IMB-0434147;8252,73
+135;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;337410;copia;IMB-0435494;411,2
+136;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;421552;copia;IMB-0438306;9371,89
+137;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;449170;copia;IMB-0438878;2694,7
+138;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;207738;copia;IMB-0443302;30744,77
+139;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;45590;copia;IMB-0453780;72922,24
+140;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;95972;copia;IMB-0454550;970,65
+141;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;84999;copia;IMB-0455502;155,8
+142;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;38892;copia;IMB-0455609;195801,11
+143;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;265290;copia;IMB-0459469;1588,37
+144;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;73502;copia;IMB-0464347;859,46
+145;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;468564;copia;IMB-0467540;2385,92
+146;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;22329;copia;IMB-0468355;2947113,56
+147;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;256906;copia;IMB-0472071;4556,79
+148;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;333677;copia;IMB-0473222;3020,96
+149;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;353446;copia;IMB-0481420;1618,49
+150;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;218523;copia;IMB-0484323;10054,91
+151;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;490136;copia;IMB-0487379;28667,6
+152;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;491887;copia;IMB-0491475;0,0
+153;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;262946;copia;IMB-0496133;1970,76
+154;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;396520;copia;IMB-0504710;3901,8
+155;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;218598;copia;IMB-0506251;1575,13
+156;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;9577;copia;IMB-0506773;33048,94
+157;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;351366;copia;IMB-0509556;22001,72
+158;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;463538;copia;IMB-0520380;28845,65
+159;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;233340;copia;IMB-0520589;760,9
+160;E01;Registro duplicado (mesmo documento, fornecedor, valor e data de aquisicao do registro original);registro inteiro;451916;copia;IMB-0526260;3528,27
+161;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-06-05;2026-03-13;IMB-0013444;9119,81
+162;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2023-02-17;2026-02-04;IMB-0040643;24568,0
+163;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-11-04;2026-01-07;IMB-0041899;232545,22
+164;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-06-02;2026-02-15;IMB-0056392;12424,16
+165;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-06-21;2026-01-08;IMB-0058025;317958,3
+166;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-08-15;2026-02-09;IMB-0074650;107982,18
+167;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2021-10-18;2026-03-13;IMB-0090802;38411,98
+168;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-03-28;2026-01-17;IMB-0136357;19914,81
+169;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-09-19;2026-02-26;IMB-0140313;36659,17
+170;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2020-04-09;2026-02-27;IMB-0159449;23044,3
+171;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-04-29;2026-02-17;IMB-0160444;313616,19
+172;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-04-16;2026-03-06;IMB-0160856;16527,5
+173;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2023-11-19;2026-02-26;IMB-0173778;27623,17
+174;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-11-21;2026-02-14;IMB-0189067;6272,03
+175;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2023-01-12;2026-02-11;IMB-0205566;61596,65
+176;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2020-10-31;2026-01-13;IMB-0205953;15361,38
+177;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2021-08-04;2026-03-15;IMB-0206659;11293,66
+178;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2013-10-20;2026-02-05;IMB-0210665;8974,97
+179;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2023-06-19;2026-01-07;IMB-0215991;181632,79
+180;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-03-01;2026-02-12;IMB-0221614;11799,06
+181;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-12-07;2026-01-23;IMB-0251733;75809,52
+182;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-08-06;2026-02-19;IMB-0252475;46405,7
+183;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-12-29;2026-03-15;IMB-0258441;5449,31
+184;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-03-13;2026-03-16;IMB-0266470;319755,25
+185;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-05-19;2026-03-03;IMB-0276624;17568,52
+186;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-01-20;2026-03-07;IMB-0295707;5357,8
+187;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2019-11-20;2026-01-14;IMB-0297635;30651,62
+188;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2023-05-25;2026-01-31;IMB-0323851;8685,12
+189;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-08-21;2026-01-10;IMB-0326392;6135,31
+190;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-01-01;2026-02-19;IMB-0340569;8929,9
+191;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-01-08;2026-02-12;IMB-0351289;27731,19
+192;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-10-12;2026-02-07;IMB-0365671;13002,15
+193;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2023-01-03;2026-03-17;IMB-0385985;51383,11
+194;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2013-12-24;2026-03-15;IMB-0420433;13011,17
+195;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-05-28;2026-02-25;IMB-0432293;6100,33
+196;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-03-03;2026-02-06;IMB-0444462;66754,66
+197;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-08-18;2026-02-20;IMB-0446861;17156,93
+198;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2021-10-10;2026-02-15;IMB-0449257;12198,24
+199;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-04-06;2026-01-24;IMB-0462708;7039,77
+200;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2023-06-12;2026-02-14;IMB-0478212;51235,35
+201;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-12-24;2026-02-24;IMB-0490308;165048,92
+202;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2021-09-28;2026-02-26;IMB-0495842;5637,49
+203;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2024-08-26;2026-03-01;IMB-0507009;26813,09
+204;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-01-07;2026-02-04;IMB-0508536;6909,22
+205;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2021-11-24;2026-02-20;IMB-0514834;23684,59
+206;E02;Corte: data de aquisicao/capitalizacao posterior a 31/12/2025 (item nao existia na data-base);data_aquisicao;2025-03-06;2026-02-02;IMB-0516768;6504,77
+207;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;720078;2904774;IMB-0009294;-4049,79
+208;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;172874;3495428;IMB-0013130;-9613,25
+209;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;220664;5270865;IMB-0017916;-16486,32
+210;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;90607;3212715;IMB-0041271;-11128,51
+211;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;1014643;4310805;IMB-0052507;-7884,07
+212;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;266956;2804771;IMB-0094536;-4847,11
+213;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;1337885;9878391;IMB-0117021;-9389,54
+214;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;1020408;23690222;IMB-0124285;-45639,34
+215;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;69538;2932934;IMB-0137541;-4281,85
+216;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;38117;3959141;IMB-0155705;-3434,75
+217;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;362322;3744604;IMB-0167125;-10109,6
+218;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;587723;2870837;IMB-0169365;-8305,19
+219;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;341270;3430568;IMB-0179024;-11502,78
+220;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;557390;4400083;IMB-0180892;-6862,56
+221;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;3988038;14937939;IMB-0197964;-10932,11
+222;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;563495;5393683;IMB-0199292;-16285,4
+223;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;351042;2740725;IMB-0200590;-3951,45
+224;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;649260;3130866;IMB-0228656;-7389,61
+225;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;525137;3376634;IMB-0230347;-12350,2
+226;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;153169;8932092;IMB-0232760;-24138,66
+227;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;665796;4231813;IMB-0234494;-12664,48
+228;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;9060244;13672984;IMB-0243033;-46127,4
+229;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;749369;3377359;IMB-0258154;-7758,77
+230;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;692715;3680966;IMB-0264454;-6606,57
+231;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;11783;3715659;IMB-0285198;-13539,72
+232;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;2178195;3102201;IMB-0292390;-9240,06
+233;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;74607;3126572;IMB-0298331;-8701,4
+234;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;718583;3786683;IMB-0301942;-12920,78
+235;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;378972;5289908;IMB-0331991;-19213,74
+236;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;709496;3006453;IMB-0334538;-5433,91
+237;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;543246;3270932;IMB-0366950;-11912,84
+238;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;3596342;5144526;IMB-0393261;-15481,84
+239;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;980864;4977272;IMB-0421670;-15721,39
+240;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;713753;8466043;IMB-0422913;-29434,39
+241;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;4875761;28917207;IMB-0433399;-27341,43
+242;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;529172;4921193;IMB-0434413;-13853,86
+243;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;778745;4140978;IMB-0442589;-14375,16
+244;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;431553;4282024;IMB-0453132;-9429,16
+245;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;305614;4519960;IMB-0477688;-10125,72
+246;E03;Depreciacao acumulada superior ao custo (valor contabil liquido negativo);dep_acum_centavos;191457;4235674;IMB-0525887;-12317,67
+247;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;661071;295844;IMB-0004125;3652,27
+248;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;2396544;1387887;IMB-0014437;10086,57
+249;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;965506;467134;IMB-0020841;4983,72
+250;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;4915805;1762926;IMB-0021291;31528,79
+251;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;718615;385135;IMB-0026485;3334,8
+252;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;2257378;1565211;IMB-0032435;6921,67
+253;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1369638;902570;IMB-0039244;4670,68
+254;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;95098210;62586494;IMB-0054116;325117,16
+255;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;6747036;5012004;IMB-0061024;17350,32
+256;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;4618923;1863733;IMB-0066121;27551,9
+257;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;23373543;11158970;IMB-0088592;122145,73
+258;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1465944;981355;IMB-0089273;4845,89
+259;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;620908;227564;IMB-0097008;3933,44
+260;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1000746;641930;IMB-0097595;3588,16
+261;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;4704846;2437736;IMB-0104648;22671,1
+262;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;4902202;1983169;IMB-0110567;29190,33
+263;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;930290;639312;IMB-0116924;2909,78
+264;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;2134961;822672;IMB-0118329;13122,89
+265;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;561122;389256;IMB-0118983;1718,66
+266;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1491166;692898;IMB-0123727;7982,68
+267;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;2594035;1035341;IMB-0136249;15586,94
+268;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;7150504;3154638;IMB-0151060;39958,66
+269;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1615468;751931;IMB-0155733;8635,37
+270;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;14735897;6878074;IMB-0169375;78578,23
+271;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;14118987;6900148;IMB-0190867;72188,39
+272;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1887898;1349366;IMB-0201415;5385,32
+273;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1147251;640567;IMB-0213067;5066,84
+274;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1039561;762879;IMB-0216936;2766,82
+275;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;9043850;5858064;IMB-0243644;31857,86
+276;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;8000613;5652164;IMB-0247009;23484,49
+277;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1601818;885405;IMB-0247152;7164,13
+278;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1958148;1349180;IMB-0247844;6089,68
+279;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;2370541;1519091;IMB-0271711;8514,5
+280;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1845558;1088498;IMB-0287559;7570,6
+281;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;2778492;1370515;IMB-0289112;14079,77
+282;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;880369;502831;IMB-0290340;3775,38
+283;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;2605618;1252082;IMB-0294633;13535,36
+284;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;4345916;2901821;IMB-0304726;14440,95
+285;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;5075010;1946407;IMB-0306656;31286,03
+286;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1788183;769816;IMB-0326085;10183,67
+287;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;2025588;1057566;IMB-0330994;9680,22
+288;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;3676766;2645769;IMB-0332213;10309,97
+289;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;996123;699474;IMB-0334732;2966,49
+290;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;9456200;4165767;IMB-0367204;52904,33
+291;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;4132365;2647895;IMB-0374810;14844,7
+292;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;4829933;1926198;IMB-0376184;29037,35
+293;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;3053347;1561375;IMB-0378309;14919,72
+294;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1806405;1302833;IMB-0379284;5035,72
+295;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;740019;488781;IMB-0380647;2512,38
+296;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;4776903;2562459;IMB-0388603;22144,44
+297;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;10984497;4853942;IMB-0389974;61305,55
+298;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;962141;531838;IMB-0390698;4303,03
+299;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;630147;397355;IMB-0392123;2327,92
+300;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;795535;523340;IMB-0403673;2721,95
+301;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1613334;1163927;IMB-0406198;4494,07
+302;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;4708297;2655213;IMB-0409616;20530,84
+303;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;2574694;1544772;IMB-0418093;10299,22
+304;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1045678;660232;IMB-0421797;3854,46
+305;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;9129452;4063212;IMB-0429978;50662,4
+306;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1164385;440985;IMB-0434655;7234,0
+307;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1296434;479393;IMB-0436438;8170,41
+308;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;744692;311796;IMB-0443237;4328,96
+309;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;1746246;955285;IMB-0443761;7909,61
+310;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;12442696;4537853;IMB-0476306;79048,43
+311;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;554078;329035;IMB-0476499;2250,43
+312;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;693084;290343;IMB-0484960;4027,41
+313;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;732181;546336;IMB-0487703;1858,45
+314;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;522696;361343;IMB-0500414;1613,53
+315;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;530402;275832;IMB-0517290;2545,7
+316;E04;Depreciacao acumulada registrada a menor que o recalculo (taxa x tempo de uso);dep_acum_centavos;3513747;1485091;IMB-0528372;20286,56
+317;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0001746;21238,84
+318;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0024386;3409,42
+319;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0027490;18388,46
+320;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0033574;6409,91
+321;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0036244;3402,97
+322;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0048945;7392,79
+323;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0052467;3949,09
+324;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0053200;13711,6
+325;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0068561;12616,73
+326;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0071051;6900,94
+327;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0104993;109223,97
+328;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0128072;97120,62
+329;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0130333;16237,15
+330;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0132295;7528,64
+331;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0135072;5464,84
+332;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0155806;8775,01
+333;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0168093;239859,63
+334;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0172908;86963,81
+335;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0176996;45147,55
+336;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0194295;13796,31
+337;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0195134;4228,85
+338;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0205240;7201,32
+339;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0206411;16677,52
+340;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0220168;31987,4
+341;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0231947;3214,66
+342;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0232204;4173,27
+343;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0232708;12350,67
+344;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0233537;35963,08
+345;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0234076;89472,75
+346;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0234867;7987,39
+347;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0249255;6773,0
+348;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0264671;4754,69
+349;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0265363;23535,03
+350;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0266143;4086,3
+351;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0266510;3651,37
+352;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0284034;77410,41
+353;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0291515;5794,44
+354;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0292328;51041,5
+355;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0304216;10120,4
+356;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0304753;31662,47
+357;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0305865;154499,92
+358;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0315094;69717,35
+359;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0315790;9444,49
+360;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0318941;73082,06
+361;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0327911;85987,38
+362;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0329067;53140,76
+363;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0335610;298590,56
+364;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0369387;144710,03
+365;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0373428;6575,12
+366;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0373898;167991,3
+367;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0374848;20650,59
+368;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0378422;9204,14
+369;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0388053;6692,29
+370;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0401279;28674,26
+371;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0406286;29849,31
+372;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0431669;6567,99
+373;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0434223;13211,69
+374;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0444143;24426,67
+375;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0466342;4631,96
+376;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0466977;23776,92
+377;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0471197;10382,21
+378;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0475791;79408,99
+379;E05;Item com status BAIXADO (baixa em 2025) mantido com saldo no subrazao;status/data_baixa;EM_OPERACAO;BAIXADO;IMB-0519488;72946,88
+380;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-12-13;2019-07-25;IMB-0016565;0,0
+381;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-12-02;2020-07-08;IMB-0018888;0,0
+382;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-09-19;2017-10-25;IMB-0021093;0,0
+383;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-05-31;2019-08-21;IMB-0024660;0,0
+384;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-05-23;2016-04-28;IMB-0026996;0,0
+385;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-02-04;2014-02-21;IMB-0033192;0,0
+386;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-02-26;2016-11-23;IMB-0036037;0,0
+387;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-08-02;2019-11-16;IMB-0037693;0,0
+388;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-04-17;2019-01-23;IMB-0040001;0,0
+389;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-12-17;2020-03-15;IMB-0054181;0,0
+390;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-11-15;2016-08-02;IMB-0054861;0,0
+391;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-02-27;2014-09-05;IMB-0056501;0,0
+392;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-11-08;2014-07-15;IMB-0057103;0,0
+393;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-12-21;2015-05-12;IMB-0064427;0,0
+394;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-09-21;2020-09-26;IMB-0084584;0,0
+395;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-08-16;2019-09-20;IMB-0086496;0,0
+396;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-10-19;2018-08-04;IMB-0089746;0,0
+397;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-09-22;2020-05-19;IMB-0091000;0,0
+398;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-09-12;2014-08-08;IMB-0095118;0,0
+399;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-06-20;2016-04-03;IMB-0098113;0,0
+400;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2022-12-21;2016-02-10;IMB-0100303;0,0
+401;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-04-30;2014-07-17;IMB-0102751;0,0
+402;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-12-13;2014-01-05;IMB-0112438;0,0
+403;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-12-29;2019-08-19;IMB-0121684;0,0
+404;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-05-05;2019-05-30;IMB-0126305;0,0
+405;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-08-25;2014-01-14;IMB-0128701;0,0
+406;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-09-19;2017-06-01;IMB-0131265;0,0
+407;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-12-06;2019-11-20;IMB-0139344;0,0
+408;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-06-15;2015-10-05;IMB-0141212;0,0
+409;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-06-02;2020-05-25;IMB-0145348;0,0
+410;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-09-28;2018-04-29;IMB-0146588;0,0
+411;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-04-19;2014-06-30;IMB-0151107;0,0
+412;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-08-18;2017-09-13;IMB-0157738;0,0
+413;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-02-04;2018-06-09;IMB-0181753;0,0
+414;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-11-21;2015-06-16;IMB-0184679;0,0
+415;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-10-24;2020-10-09;IMB-0185291;0,0
+416;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2022-07-25;2014-05-30;IMB-0191187;0,0
+417;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-11-28;2015-05-13;IMB-0197212;0,0
+418;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2022-11-02;2019-11-30;IMB-0202788;0,0
+419;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-03-02;2015-01-27;IMB-0210505;0,0
+420;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2021-05-04;2019-02-27;IMB-0216086;0,0
+421;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-07-31;2014-08-14;IMB-0237652;0,0
+422;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-10-13;2014-02-24;IMB-0249750;0,0
+423;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-08-09;2018-05-08;IMB-0251079;0,0
+424;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-11-12;2014-05-06;IMB-0254982;0,0
+425;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-11-29;2014-10-31;IMB-0257560;0,0
+426;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-11-04;2019-02-12;IMB-0258014;0,0
+427;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-12-02;2017-02-23;IMB-0259997;0,0
+428;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2022-11-19;2015-07-15;IMB-0260707;0,0
+429;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-12-07;2016-11-28;IMB-0261842;0,0
+430;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-10-18;2020-03-01;IMB-0262031;0,0
+431;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-10-08;2017-06-09;IMB-0267326;0,0
+432;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-01-05;2015-12-05;IMB-0268491;0,0
+433;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-07-04;2018-03-21;IMB-0274219;0,0
+434;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-05-18;2017-01-02;IMB-0278037;0,0
+435;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-07-30;2017-12-08;IMB-0283566;0,0
+436;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-08-17;2019-06-17;IMB-0290443;0,0
+437;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-05-27;2014-03-06;IMB-0296285;0,0
+438;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2021-12-02;2020-07-11;IMB-0297546;0,0
+439;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-08-18;2018-04-16;IMB-0318713;0,0
+440;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-02-26;2018-12-03;IMB-0319030;0,0
+441;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-12-15;2014-12-17;IMB-0319692;0,0
+442;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-04-11;2015-03-06;IMB-0323701;0,0
+443;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-05-22;2014-09-28;IMB-0325465;0,0
+444;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-08-10;2014-08-23;IMB-0341867;0,0
+445;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-10-31;2019-10-10;IMB-0344380;0,0
+446;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-08-27;2015-10-04;IMB-0353394;0,0
+447;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-03-31;2016-07-06;IMB-0353678;0,0
+448;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-05-02;2018-10-28;IMB-0354581;0,0
+449;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-10-27;2018-02-13;IMB-0372794;0,0
+450;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-06-15;2017-10-17;IMB-0375736;0,0
+451;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-08-07;2020-01-05;IMB-0376415;0,0
+452;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2022-12-31;2020-07-24;IMB-0384539;0,0
+453;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-01-01;2016-03-10;IMB-0391708;0,0
+454;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-07-18;2015-03-10;IMB-0393346;0,0
+455;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-11-01;2015-12-09;IMB-0395331;0,0
+456;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-12-04;2014-12-21;IMB-0406013;0,0
+457;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-12-28;2015-10-03;IMB-0410960;0,0
+458;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2022-09-06;2015-10-27;IMB-0421305;0,0
+459;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-07-18;2018-11-13;IMB-0427586;0,0
+460;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-10-12;2019-01-19;IMB-0429180;0,0
+461;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-07-21;2019-03-07;IMB-0437693;0,0
+462;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-12-14;2015-08-26;IMB-0445933;0,0
+463;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-02-19;2019-01-23;IMB-0461341;0,0
+464;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-12-05;2018-03-30;IMB-0461418;0,0
+465;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-02-03;2020-07-03;IMB-0465632;0,0
+466;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-04-15;2017-12-24;IMB-0477504;0,0
+467;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-07-03;2016-06-04;IMB-0479866;0,0
+468;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2025-04-26;2018-05-09;IMB-0485114;0,0
+469;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-08-28;2020-04-08;IMB-0489031;0,0
+470;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2023-08-13;2014-10-02;IMB-0495708;0,0
+471;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-10-30;2019-09-12;IMB-0500789;0,0
+472;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2022-12-03;2016-12-09;IMB-0501906;0,0
+473;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2022-02-24;2017-11-09;IMB-0508338;0,0
+474;E06;Material de almoxarifado de investimento sem movimentacao ha mais de 5 anos (indicio de obsolescencia);data_aquisicao;2024-05-29;2020-04-24;IMB-0517353;0,0
+475;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0000328;0,0
+476;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0000835;0,0
+477;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0001209;0,0
+478;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR023;IMB-0002003;0,0
+479;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR010;USR002;IMB-0003328;0,0
+480;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0004509;0,0
+481;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR015;IMB-0005076;0,0
+482;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR022;;IMB-0005715;0,0
+483;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR013;;IMB-0006873;0,0
+484;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR012;IMB-0008022;0,0
+485;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR025;USR015;IMB-0008482;0,0
+486;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR007;IMB-0009524;0,0
+487;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR002;IMB-0011307;0,0
+488;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR001;IMB-0012662;0,0
+489;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0015005;0,0
+490;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR024;IMB-0015549;0,0
+491;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR021;;IMB-0016544;0,0
+492;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0016650;0,0
+493;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR012;USR018;IMB-0017470;0,0
+494;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR021;IMB-0019733;0,0
+495;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR020;IMB-0019749;0,0
+496;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR012;;IMB-0024050;0,0
+497;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR001;USR012;IMB-0024139;0,0
+498;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR005;IMB-0024238;0,0
+499;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR001;USR018;IMB-0026096;0,0
+500;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR028;IMB-0029591;0,0
+501;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR021;;IMB-0030632;0,0
+502;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0031923;0,0
+503;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR008;USR001;IMB-0032759;0,0
+504;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0033031;0,0
+505;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0033551;0,0
+506;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR028;IMB-0034527;0,0
+507;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR003;;IMB-0034566;0,0
+508;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR011;IMB-0034668;0,0
+509;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR020;IMB-0035444;0,0
+510;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR018;;IMB-0035473;0,0
+511;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR022;;IMB-0036527;0,0
+512;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR022;;IMB-0037446;0,0
+513;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR017;IMB-0038583;0,0
+514;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR028;USR003;IMB-0038643;0,0
+515;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0038970;0,0
+516;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR022;IMB-0040579;0,0
+517;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR011;USR006;IMB-0042777;0,0
+518;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR025;IMB-0043636;0,0
+519;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR012;IMB-0044103;0,0
+520;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR018;;IMB-0046847;0,0
+521;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR009;USR017;IMB-0049177;0,0
+522;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR024;IMB-0049655;0,0
+523;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR018;;IMB-0050247;0,0
+524;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR024;;IMB-0051543;0,0
+525;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR024;;IMB-0051705;0,0
+526;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0052320;0,0
+527;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR020;IMB-0052793;0,0
+528;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR009;IMB-0053471;0,0
+529;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR024;IMB-0054251;0,0
+530;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR005;IMB-0054826;0,0
+531;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0054843;0,0
+532;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0055284;0,0
+533;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR010;;IMB-0056636;0,0
+534;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0057949;0,0
+535;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR026;;IMB-0058348;0,0
+536;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR003;;IMB-0059114;0,0
+537;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0059435;0,0
+538;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR001;;IMB-0063892;0,0
+539;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR013;;IMB-0065858;0,0
+540;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR025;;IMB-0066535;0,0
+541;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR015;;IMB-0066578;0,0
+542;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR027;;IMB-0067702;0,0
+543;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0069311;0,0
+544;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR028;USR006;IMB-0069340;0,0
+545;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR025;;IMB-0071561;0,0
+546;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0072249;0,0
+547;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR018;;IMB-0072802;0,0
+548;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0074106;0,0
+549;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR020;USR005;IMB-0075131;0,0
+550;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR028;USR016;IMB-0075367;0,0
+551;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR005;IMB-0076017;0,0
+552;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR019;USR027;IMB-0076998;0,0
+553;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0077144;0,0
+554;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR009;USR004;IMB-0077211;0,0
+555;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0077347;0,0
+556;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR024;USR017;IMB-0078207;0,0
+557;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR025;;IMB-0078776;0,0
+558;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR006;IMB-0080054;0,0
+559;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0080528;0,0
+560;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR012;USR027;IMB-0082373;0,0
+561;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0082468;0,0
+562;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR002;IMB-0082508;0,0
+563;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR016;USR007;IMB-0083053;0,0
+564;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR022;IMB-0085176;0,0
+565;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0085297;0,0
+566;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR011;USR001;IMB-0087148;0,0
+567;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0087417;0,0
+568;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR009;IMB-0088846;0,0
+569;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR028;IMB-0088883;0,0
+570;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0088911;0,0
+571;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR001;USR011;IMB-0089589;0,0
+572;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR018;;IMB-0090520;0,0
+573;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR022;;IMB-0092066;0,0
+574;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR019;;IMB-0094418;0,0
+575;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR018;;IMB-0095443;0,0
+576;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR003;IMB-0097358;0,0
+577;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR017;IMB-0097554;0,0
+578;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0099520;0,0
+579;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0101041;0,0
+580;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR024;USR008;IMB-0103516;0,0
+581;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0105963;0,0
+582;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR017;IMB-0106210;0,0
+583;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR013;IMB-0107794;0,0
+584;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0108997;0,0
+585;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR001;USR018;IMB-0109213;0,0
+586;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR010;USR007;IMB-0110119;0,0
+587;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR004;USR019;IMB-0110500;0,0
+588;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR027;;IMB-0110562;0,0
+589;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR019;IMB-0110635;0,0
+590;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR019;USR006;IMB-0111612;0,0
+591;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0112253;0,0
+592;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0112655;0,0
+593;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR011;IMB-0112832;0,0
+594;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0114225;0,0
+595;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR016;USR002;IMB-0115916;0,0
+596;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR009;IMB-0116541;0,0
+597;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR004;IMB-0116931;0,0
+598;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0118347;0,0
+599;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR001;;IMB-0120166;0,0
+600;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR020;IMB-0120517;0,0
+601;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR010;;IMB-0121484;0,0
+602;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR010;IMB-0121707;0,0
+603;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR025;USR015;IMB-0122294;0,0
+604;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR012;;IMB-0123022;0,0
+605;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR003;IMB-0124577;0,0
+606;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR003;;IMB-0124714;0,0
+607;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0125625;0,0
+608;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR002;IMB-0125747;0,0
+609;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0129743;0,0
+610;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR016;USR011;IMB-0131973;0,0
+611;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0132085;0,0
+612;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR028;USR007;IMB-0132181;0,0
+613;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR023;IMB-0133106;0,0
+614;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR025;;IMB-0133520;0,0
+615;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR021;IMB-0133716;0,0
+616;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR008;USR024;IMB-0134232;0,0
+617;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR021;IMB-0135466;0,0
+618;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR015;IMB-0136465;0,0
+619;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR019;USR016;IMB-0136756;0,0
+620;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR003;IMB-0137623;0,0
+621;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0137797;0,0
+622;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR026;USR021;IMB-0140046;0,0
+623;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0140213;0,0
+624;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR013;;IMB-0144993;0,0
+625;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR027;;IMB-0145375;0,0
+626;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0145741;0,0
+627;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR013;;IMB-0145868;0,0
+628;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR002;IMB-0145979;0,0
+629;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR001;USR013;IMB-0148171;0,0
+630;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0149416;0,0
+631;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR019;;IMB-0152639;0,0
+632;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0153666;0,0
+633;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0153750;0,0
+634;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR021;;IMB-0154410;0,0
+635;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR012;USR002;IMB-0154779;0,0
+636;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0155001;0,0
+637;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR014;;IMB-0156772;0,0
+638;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR025;IMB-0157269;0,0
+639;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR020;USR017;IMB-0160033;0,0
+640;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR027;;IMB-0160542;0,0
+641;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR018;IMB-0161083;0,0
+642;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR001;USR010;IMB-0161463;0,0
+643;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR020;USR026;IMB-0162665;0,0
+644;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR022;IMB-0162861;0,0
+645;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0163057;0,0
+646;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR003;;IMB-0163223;0,0
+647;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR001;USR028;IMB-0163736;0,0
+648;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR003;IMB-0165008;0,0
+649;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR021;IMB-0165654;0,0
+650;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0166852;0,0
+651;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR017;IMB-0167225;0,0
+652;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0168718;0,0
+653;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR010;USR007;IMB-0169218;0,0
+654;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR021;;IMB-0169517;0,0
+655;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR004;IMB-0171399;0,0
+656;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0172701;0,0
+657;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0172810;0,0
+658;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR026;;IMB-0174477;0,0
+659;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR012;USR016;IMB-0174691;0,0
+660;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR022;;IMB-0174788;0,0
+661;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0175728;0,0
+662;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR025;USR023;IMB-0176485;0,0
+663;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR005;;IMB-0176500;0,0
+664;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0177223;0,0
+665;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR010;USR011;IMB-0178310;0,0
+666;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR027;IMB-0182429;0,0
+667;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR007;IMB-0182941;0,0
+668;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR016;USR028;IMB-0183852;0,0
+669;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR011;IMB-0183943;0,0
+670;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR019;;IMB-0183959;0,0
+671;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR022;IMB-0184189;0,0
+672;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR011;IMB-0184422;0,0
+673;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR025;USR015;IMB-0184913;0,0
+674;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0185120;0,0
+675;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR026;USR004;IMB-0185217;0,0
+676;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR018;IMB-0185318;0,0
+677;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR027;;IMB-0185748;0,0
+678;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0186194;0,0
+679;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR005;IMB-0186400;0,0
+680;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR004;IMB-0187369;0,0
+681;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR026;;IMB-0188873;0,0
+682;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR019;USR020;IMB-0189922;0,0
+683;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0191291;0,0
+684;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR022;IMB-0191542;0,0
+685;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR019;IMB-0192132;0,0
+686;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0193140;0,0
+687;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR024;USR012;IMB-0193799;0,0
+688;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR011;IMB-0193980;0,0
+689;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0194749;0,0
+690;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR019;IMB-0195576;0,0
+691;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR010;USR023;IMB-0196412;0,0
+692;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR005;;IMB-0196701;0,0
+693;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR005;;IMB-0196921;0,0
+694;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0197109;0,0
+695;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0197621;0,0
+696;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR003;;IMB-0197934;0,0
+697;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0198908;0,0
+698;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0199899;0,0
+699;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR010;IMB-0200178;0,0
+700;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0204212;0,0
+701;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR008;USR020;IMB-0204844;0,0
+702;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR001;IMB-0205789;0,0
+703;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR021;;IMB-0205933;0,0
+704;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0206055;0,0
+705;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR020;IMB-0209416;0,0
+706;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR003;IMB-0211331;0,0
+707;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0212877;0,0
+708;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR012;USR017;IMB-0213151;0,0
+709;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR025;USR015;IMB-0213338;0,0
+710;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR005;IMB-0213436;0,0
+711;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0213964;0,0
+712;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0215632;0,0
+713;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR009;USR010;IMB-0217762;0,0
+714;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR001;USR012;IMB-0218888;0,0
+715;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0219867;0,0
+716;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0220265;0,0
+717;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR025;USR004;IMB-0220491;0,0
+718;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR026;USR015;IMB-0221338;0,0
+719;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR015;;IMB-0221663;0,0
+720;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR014;;IMB-0222043;0,0
+721;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0222256;0,0
+722;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR001;;IMB-0222373;0,0
+723;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR002;IMB-0224422;0,0
+724;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR004;USR012;IMB-0224469;0,0
+725;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR020;IMB-0224627;0,0
+726;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0225233;0,0
+727;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR009;USR026;IMB-0225683;0,0
+728;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR005;IMB-0225901;0,0
+729;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR001;;IMB-0226327;0,0
+730;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR012;;IMB-0226443;0,0
+731;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0227209;0,0
+732;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR020;IMB-0228925;0,0
+733;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR004;IMB-0229276;0,0
+734;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0229762;0,0
+735;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR016;IMB-0231854;0,0
+736;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR008;USR013;IMB-0231878;0,0
+737;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR012;;IMB-0232450;0,0
+738;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR013;;IMB-0232895;0,0
+739;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0236284;0,0
+740;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR019;;IMB-0237798;0,0
+741;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR016;USR020;IMB-0239507;0,0
+742;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR028;IMB-0241251;0,0
+743;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR018;;IMB-0242239;0,0
+744;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0242596;0,0
+745;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR026;;IMB-0244080;0,0
+746;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0244581;0,0
+747;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR005;IMB-0245672;0,0
+748;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR024;USR019;IMB-0247347;0,0
+749;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0248997;0,0
+750;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR011;USR015;IMB-0250283;0,0
+751;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR019;;IMB-0250536;0,0
+752;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR024;;IMB-0251484;0,0
+753;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR009;USR013;IMB-0254365;0,0
+754;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR028;USR022;IMB-0254506;0,0
+755;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR015;;IMB-0256586;0,0
+756;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR012;USR021;IMB-0257460;0,0
+757;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0257506;0,0
+758;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0258937;0,0
+759;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR001;USR019;IMB-0259434;0,0
+760;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR007;IMB-0259846;0,0
+761;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR019;USR013;IMB-0259924;0,0
+762;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR018;IMB-0260600;0,0
+763;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR018;;IMB-0263174;0,0
+764;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR017;IMB-0265955;0,0
+765;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR027;USR010;IMB-0266318;0,0
+766;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR019;USR021;IMB-0267173;0,0
+767;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR021;;IMB-0267369;0,0
+768;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR022;;IMB-0268066;0,0
+769;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR019;USR028;IMB-0269486;0,0
+770;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR026;;IMB-0269590;0,0
+771;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR014;IMB-0270013;0,0
+772;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR016;USR011;IMB-0270190;0,0
+773;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR027;;IMB-0270434;0,0
+774;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR001;;IMB-0270456;0,0
+775;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR024;;IMB-0274377;0,0
+776;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR004;USR022;IMB-0275556;0,0
+777;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR025;USR004;IMB-0276974;0,0
+778;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR018;IMB-0278734;0,0
+779;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR001;IMB-0280097;0,0
+780;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0280653;0,0
+781;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR010;;IMB-0280741;0,0
+782;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR008;USR026;IMB-0281024;0,0
+783;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR010;USR002;IMB-0281116;0,0
+784;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR013;IMB-0281211;0,0
+785;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR020;USR018;IMB-0281562;0,0
+786;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0281946;0,0
+787;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR027;IMB-0282775;0,0
+788;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR021;IMB-0283264;0,0
+789;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR021;;IMB-0283718;0,0
+790;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR018;;IMB-0284044;0,0
+791;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0284733;0,0
+792;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0284773;0,0
+793;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR019;;IMB-0284878;0,0
+794;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR024;IMB-0285169;0,0
+795;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR020;USR028;IMB-0287108;0,0
+796;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR026;USR004;IMB-0287568;0,0
+797;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR020;USR017;IMB-0287763;0,0
+798;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0287869;0,0
+799;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR014;;IMB-0288222;0,0
+800;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR012;IMB-0288336;0,0
+801;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR025;;IMB-0288461;0,0
+802;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR015;IMB-0289140;0,0
+803;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR026;USR005;IMB-0289613;0,0
+804;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR020;IMB-0290623;0,0
+805;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0290654;0,0
+806;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0292373;0,0
+807;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0293761;0,0
+808;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR025;;IMB-0294092;0,0
+809;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR005;;IMB-0295336;0,0
+810;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR006;IMB-0295912;0,0
+811;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR004;USR017;IMB-0296134;0,0
+812;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR001;USR023;IMB-0296819;0,0
+813;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0297563;0,0
+814;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0301451;0,0
+815;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR004;USR027;IMB-0301558;0,0
+816;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR019;USR025;IMB-0301632;0,0
+817;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0302438;0,0
+818;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR003;IMB-0302516;0,0
+819;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR001;IMB-0302597;0,0
+820;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR026;;IMB-0303449;0,0
+821;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0304386;0,0
+822;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR020;IMB-0305314;0,0
+823;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR003;IMB-0306261;0,0
+824;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR025;IMB-0307251;0,0
+825;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0307479;0,0
+826;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR006;IMB-0308677;0,0
+827;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0309892;0,0
+828;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR015;IMB-0311112;0,0
+829;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0313486;0,0
+830;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR014;;IMB-0314193;0,0
+831;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR012;USR003;IMB-0315685;0,0
+832;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR001;;IMB-0316529;0,0
+833;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR010;IMB-0316993;0,0
+834;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR027;;IMB-0317661;0,0
+835;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR003;;IMB-0321041;0,0
+836;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR020;USR012;IMB-0322544;0,0
+837;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR012;;IMB-0323166;0,0
+838;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0324785;0,0
+839;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0324864;0,0
+840;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0325527;0,0
+841;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR020;USR010;IMB-0326438;0,0
+842;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0328755;0,0
+843;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR011;USR004;IMB-0329076;0,0
+844;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0330397;0,0
+845;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR025;USR005;IMB-0331364;0,0
+846;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0331760;0,0
+847;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR002;IMB-0333896;0,0
+848;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR015;;IMB-0334481;0,0
+849;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR001;IMB-0336286;0,0
+850;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR003;IMB-0336488;0,0
+851;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR009;USR026;IMB-0337538;0,0
+852;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0338186;0,0
+853;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR003;;IMB-0338800;0,0
+854;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR015;IMB-0338943;0,0
+855;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR010;;IMB-0340533;0,0
+856;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0341160;0,0
+857;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR011;USR018;IMB-0341520;0,0
+858;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0342452;0,0
+859;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR015;;IMB-0342502;0,0
+860;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0342781;0,0
+861;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR017;IMB-0342815;0,0
+862;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0342825;0,0
+863;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0343657;0,0
+864;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0344015;0,0
+865;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR026;USR011;IMB-0344033;0,0
+866;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR010;IMB-0344377;0,0
+867;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR005;;IMB-0344996;0,0
+868;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0346817;0,0
+869;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR006;IMB-0347252;0,0
+870;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR003;;IMB-0347775;0,0
+871;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0348213;0,0
+872;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR023;IMB-0348324;0,0
+873;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR012;IMB-0350351;0,0
+874;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR005;;IMB-0351379;0,0
+875;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR012;;IMB-0351499;0,0
+876;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR011;USR021;IMB-0354179;0,0
+877;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR027;IMB-0354912;0,0
+878;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0355111;0,0
+879;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0356938;0,0
+880;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0357085;0,0
+881;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0357475;0,0
+882;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR008;IMB-0358192;0,0
+883;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR010;IMB-0359636;0,0
+884;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR026;USR007;IMB-0359660;0,0
+885;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0360917;0,0
+886;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0361309;0,0
+887;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR016;IMB-0363422;0,0
+888;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR008;IMB-0363815;0,0
+889;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR013;;IMB-0365318;0,0
+890;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR015;IMB-0366629;0,0
+891;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR021;IMB-0367085;0,0
+892;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0368053;0,0
+893;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR022;IMB-0368703;0,0
+894;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR018;IMB-0368795;0,0
+895;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR014;;IMB-0369571;0,0
+896;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR014;;IMB-0370236;0,0
+897;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR004;USR024;IMB-0370335;0,0
+898;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0370488;0,0
+899;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR004;IMB-0370832;0,0
+900;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR025;;IMB-0370845;0,0
+901;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR027;USR028;IMB-0370875;0,0
+902;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0371162;0,0
+903;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR026;;IMB-0372329;0,0
+904;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR003;IMB-0372584;0,0
+905;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR012;IMB-0374059;0,0
+906;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0374936;0,0
+907;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR016;IMB-0375329;0,0
+908;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR004;IMB-0376127;0,0
+909;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR019;IMB-0377225;0,0
+910;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0378572;0,0
+911;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR024;USR023;IMB-0378774;0,0
+912;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0379923;0,0
+913;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR009;USR005;IMB-0380121;0,0
+914;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR017;IMB-0386420;0,0
+915;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR022;;IMB-0386979;0,0
+916;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR009;USR003;IMB-0387428;0,0
+917;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0388067;0,0
+918;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR016;IMB-0388537;0,0
+919;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0388616;0,0
+920;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR008;IMB-0389902;0,0
+921;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0394398;0,0
+922;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0394499;0,0
+923;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR011;IMB-0394916;0,0
+924;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0395321;0,0
+925;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR028;USR009;IMB-0396126;0,0
+926;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0397304;0,0
+927;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR012;;IMB-0397580;0,0
+928;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR015;;IMB-0398662;0,0
+929;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0399236;0,0
+930;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR017;IMB-0399382;0,0
+931;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR023;IMB-0399583;0,0
+932;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR008;USR013;IMB-0399997;0,0
+933;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0400614;0,0
+934;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR016;IMB-0400753;0,0
+935;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR028;USR021;IMB-0401435;0,0
+936;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0401773;0,0
+937;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR014;IMB-0401925;0,0
+938;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR015;IMB-0403006;0,0
+939;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR017;IMB-0403444;0,0
+940;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR024;USR013;IMB-0404153;0,0
+941;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR016;USR018;IMB-0404581;0,0
+942;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR026;USR022;IMB-0405596;0,0
+943;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0406527;0,0
+944;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR001;IMB-0406720;0,0
+945;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0408739;0,0
+946;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0408972;0,0
+947;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR014;;IMB-0409197;0,0
+948;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0410713;0,0
+949;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR028;USR027;IMB-0410917;0,0
+950;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0410997;0,0
+951;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR010;;IMB-0412665;0,0
+952;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0413670;0,0
+953;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR010;;IMB-0415420;0,0
+954;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0415446;0,0
+955;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR004;USR022;IMB-0415781;0,0
+956;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0415970;0,0
+957;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR024;USR003;IMB-0416874;0,0
+958;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR015;IMB-0417017;0,0
+959;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR011;USR022;IMB-0417649;0,0
+960;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR026;USR019;IMB-0418262;0,0
+961;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR027;;IMB-0419769;0,0
+962;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR012;IMB-0421482;0,0
+963;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0424035;0,0
+964;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR015;;IMB-0424695;0,0
+965;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR012;IMB-0425858;0,0
+966;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR027;IMB-0426406;0,0
+967;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0429946;0,0
+968;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0430081;0,0
+969;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0431558;0,0
+970;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0431684;0,0
+971;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR012;USR001;IMB-0432759;0,0
+972;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR026;IMB-0433382;0,0
+973;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR004;IMB-0433684;0,0
+974;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR007;;IMB-0434290;0,0
+975;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR022;;IMB-0435296;0,0
+976;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR012;USR006;IMB-0435667;0,0
+977;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR018;IMB-0436130;0,0
+978;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR023;IMB-0436596;0,0
+979;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0437720;0,0
+980;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR018;IMB-0438453;0,0
+981;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0438958;0,0
+982;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0440962;0,0
+983;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR005;IMB-0445372;0,0
+984;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0448141;0,0
+985;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR022;;IMB-0448561;0,0
+986;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR024;USR015;IMB-0448609;0,0
+987;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0449070;0,0
+988;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR003;;IMB-0450197;0,0
+989;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0450351;0,0
+990;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR008;IMB-0452273;0,0
+991;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR027;IMB-0453209;0,0
+992;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR004;;IMB-0453771;0,0
+993;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR013;IMB-0457371;0,0
+994;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR013;IMB-0458920;0,0
+995;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0458965;0,0
+996;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR009;USR025;IMB-0459704;0,0
+997;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR006;IMB-0460559;0,0
+998;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR012;IMB-0461104;0,0
+999;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR010;;IMB-0462369;0,0
+1000;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR016;USR018;IMB-0463500;0,0
+1001;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR007;IMB-0463686;0,0
+1002;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR017;IMB-0465732;0,0
+1003;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR010;;IMB-0465950;0,0
+1004;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR001;IMB-0466155;0,0
+1005;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR016;IMB-0466265;0,0
+1006;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR021;USR028;IMB-0466410;0,0
+1007;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR026;IMB-0466764;0,0
+1008;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR014;IMB-0467104;0,0
+1009;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR006;USR026;IMB-0468294;0,0
+1010;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0468485;0,0
+1011;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR012;USR019;IMB-0469768;0,0
+1012;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0470178;0,0
+1013;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR019;;IMB-0470996;0,0
+1014;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0471578;0,0
+1015;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR008;USR011;IMB-0471958;0,0
+1016;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR020;;IMB-0472118;0,0
+1017;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0473343;0,0
+1018;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR013;USR006;IMB-0473884;0,0
+1019;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0475940;0,0
+1020;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0476225;0,0
+1021;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR012;;IMB-0477127;0,0
+1022;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR025;;IMB-0477884;0,0
+1023;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0478256;0,0
+1024;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR012;;IMB-0478976;0,0
+1025;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR026;USR013;IMB-0482114;0,0
+1026;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR020;USR010;IMB-0482727;0,0
+1027;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR013;;IMB-0482933;0,0
+1028;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR028;;IMB-0483212;0,0
+1029;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR019;;IMB-0484041;0,0
+1030;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR001;IMB-0484075;0,0
+1031;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0484356;0,0
+1032;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR008;IMB-0484442;0,0
+1033;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR018;;IMB-0484773;0,0
+1034;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR026;;IMB-0486154;0,0
+1035;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0487985;0,0
+1036;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR024;USR008;IMB-0488095;0,0
+1037;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR017;USR006;IMB-0489827;0,0
+1038;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR005;;IMB-0490290;0,0
+1039;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR002;USR022;IMB-0490340;0,0
+1040;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR008;IMB-0490725;0,0
+1041;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR004;USR003;IMB-0491558;0,0
+1042;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR010;IMB-0492495;0,0
+1043;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR001;IMB-0494779;0,0
+1044;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR009;;IMB-0496383;0,0
+1045;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR003;IMB-0496660;0,0
+1046;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR027;;IMB-0497013;0,0
+1047;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR003;;IMB-0497094;0,0
+1048;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0498119;0,0
+1049;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR027;;IMB-0498302;0,0
+1050;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0498415;0,0
+1051;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR009;USR026;IMB-0498982;0,0
+1052;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR018;IMB-0499104;0,0
+1053;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR011;;IMB-0499281;0,0
+1054;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR017;IMB-0500259;0,0
+1055;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR014;;IMB-0500763;0,0
+1056;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0501049;0,0
+1057;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR024;USR012;IMB-0503587;0,0
+1058;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0504496;0,0
+1059;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0504744;0,0
+1060;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR007;IMB-0505445;0,0
+1061;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR014;USR002;IMB-0505991;0,0
+1062;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR004;USR028;IMB-0507626;0,0
+1063;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0507917;0,0
+1064;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR025;IMB-0508219;0,0
+1065;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR006;IMB-0511964;0,0
+1066;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR015;USR023;IMB-0512429;0,0
+1067;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR012;IMB-0512634;0,0
+1068;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0513391;0,0
+1069;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR021;;IMB-0513861;0,0
+1070;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR001;;IMB-0514136;0,0
+1071;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0514463;0,0
+1072;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR010;IMB-0515096;0,0
+1073;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR024;;IMB-0517232;0,0
+1074;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR024;;IMB-0517723;0,0
+1075;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR008;;IMB-0518296;0,0
+1076;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0518722;0,0
+1077;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR006;;IMB-0518938;0,0
+1078;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR023;USR025;IMB-0519213;0,0
+1079;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR021;;IMB-0519530;0,0
+1080;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR017;;IMB-0520268;0,0
+1081;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR023;;IMB-0521887;0,0
+1082;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR024;IMB-0524015;0,0
+1083;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR003;USR011;IMB-0524064;0,0
+1084;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR002;;IMB-0524603;0,0
+1085;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR016;;IMB-0527407;0,0
+1086;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR010;;IMB-0527564;0,0
+1087;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR019;IMB-0527690;0,0
+1088;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR007;USR012;IMB-0528468;0,0
+1089;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR008;USR025;IMB-0528533;0,0
+1090;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR022;USR024;IMB-0529311;0,0
+1091;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR018;USR006;IMB-0529762;0,0
+1092;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR005;USR010;IMB-0530307;0,0
+1093;E07;Cadastro aprovado pelo proprio usuario que cadastrou (maker = checker);usuario_aprovacao;USR019;USR011;IMB-0530576;0,0
+1094;E07;Cadastro sem aprovacao (campo usuario_aprovacao vazio);usuario_aprovacao;USR012;;IMB-0531924;0,0
+1095;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;CASSARONGONGO;CAMPO X-01;IMB-0015892;16949,9
+1096;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-19 (SINTETICO);CAMPO X-01;IMB-0032698;8658,86
+1097;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;REMANSO;POT-CONC-99 (SINTETICO);IMB-0035586;137511,6
+1098;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-07 (SINTETICO);CAMPO X-01;IMB-0047956;53239,84
+1099;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;RIACHO DA FORQUILHA;FAZENDA NOVA;IMB-0049752;22381,53
+1100;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;SUSSUARANA;CAMPO X-01;IMB-0056136;3247,42
+1101;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;CASSARONGONGO;CAMPO X-01;IMB-0069073;7860,2
+1102;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-15 (SINTETICO);POT-CONC-99 (SINTETICO);IMB-0076291;6822,6
+1103;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;APRAIUS;FAZENDA NOVA;IMB-0077086;45443,99
+1104;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-01 (SINTETICO);FAZENDA NOVA;IMB-0091843;13602,48
+1105;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-07 (SINTETICO);POT-CONC-99 (SINTETICO);IMB-0109247;32458,4
+1106;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;TARTARUGA;POT-CONC-99 (SINTETICO);IMB-0126010;136288,25
+1107;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;JACUIPE;FAZENDA NOVA;IMB-0127952;20547,16
+1108;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;TARTARUGA;CAMPO X-01;IMB-0150979;8526,06
+1109;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-16 (SINTETICO);FAZENDA NOVA;IMB-0151404;67108,63
+1110;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;RIO MOSSORO;POT-CONC-99 (SINTETICO);IMB-0157066;76684,82
+1111;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-06 (SINTETICO);POT-CONC-99 (SINTETICO);IMB-0164596;16706,69
+1112;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;BIRIBA;CAMPO X-01;IMB-0166911;16609,3
+1113;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;FAZENDA BELEM;FAZENDA NOVA;IMB-0184141;136901,09
+1114;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;CASSARONGONGO;FAZENDA NOVA;IMB-0207990;28415,49
+1115;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;RIACHO SAO PEDRO;CAMPO X-01;IMB-0256322;4715,38
+1116;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-13 (SINTETICO);CAMPO X-01;IMB-0274479;3509,39
+1117;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;LAGOA DO PAULO SUL;FAZENDA NOVA;IMB-0276524;72291,72
+1118;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;MIRANGA;POT-CONC-99 (SINTETICO);IMB-0311354;41713,72
+1119;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-01 (SINTETICO);FAZENDA NOVA;IMB-0350049;9078,46
+1120;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-19 (SINTETICO);POT-CONC-99 (SINTETICO);IMB-0363917;6658,07
+1121;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;TARTARUGA;POT-CONC-99 (SINTETICO);IMB-0375989;11767,13
+1122;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;POT-CONC-16 (SINTETICO);CAMPO X-01;IMB-0386673;7648,39
+1123;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;SUSSUARANA;FAZENDA NOVA;IMB-0386695;121158,6
+1124;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;SUSSUARANA;POT-CONC-99 (SINTETICO);IMB-0428635;3325,17
+1125;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;REMANSO;FAZENDA NOVA;IMB-0483110;13417,77
+1126;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;TARTARUGA;CAMPO X-01;IMB-0485692;22544,25
+1127;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;APRAIUS;FAZENDA NOVA;IMB-0489751;3128,83
+1128;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;JACUIPE;POT-CONC-99 (SINTETICO);IMB-0498295;52005,34
+1129;E08;Campo nao cadastrado entre as 58 concessoes e documento de suporte inexistente (existencia);campo;JACUIPE;FAZENDA NOVA;IMB-0504178;5479,54
+1130;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);16073696;12215961;IMB-0005407;38577,35
+1131;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);25182513;19671239;IMB-0010426;55112,74
+1132;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);16603194;5757099;IMB-0018823;108460,95
+1133;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2794824;1643801;IMB-0020381;11510,23
+1134;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);40923104;33809638;IMB-0021507;71134,66
+1135;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);20734304;15462148;IMB-0028580;52721,56
+1136;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);14166832;9085585;IMB-0031829;50812,47
+1137;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);46446681;28967805;IMB-0039805;174788,76
+1138;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);44053307;37201533;IMB-0043895;68517,74
+1139;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);62173846;0;IMB-0045516;621738,46
+1140;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);5743384;2753486;IMB-0051852;29898,98
+1141;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);10397467;4319147;IMB-0051896;60783,2
+1142;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);21410603;19250008;IMB-0059406;21605,95
+1143;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);5016029;2738682;IMB-0065475;22773,47
+1144;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);55008311;42555520;IMB-0070916;124527,91
+1145;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);9208316;4910488;IMB-0086443;42978,28
+1146;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);12898973;3285531;IMB-0095595;96134,42
+1147;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);44739820;29670895;IMB-0097643;150689,25
+1148;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);121748305;32247576;IMB-0104066;895007,29
+1149;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);9575228;5942394;IMB-0106660;36328,34
+1150;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);32819090;9843431;IMB-0112416;229756,59
+1151;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);27971693;21723822;IMB-0114889;62478,71
+1152;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);23816140;8997094;IMB-0120744;148190,46
+1153;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);18598771;9880277;IMB-0130396;87184,94
+1154;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);10229191;3736490;IMB-0131653;64927,01
+1155;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2137878;1578628;IMB-0132649;5592,5
+1156;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);58249056;50240056;IMB-0134272;80090,0
+1157;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);79129649;34522301;IMB-0136702;446073,48
+1158;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);3478636;1142831;IMB-0137070;23358,05
+1159;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);8172393;2060073;IMB-0148232;61123,2
+1160;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);15939137;12717956;IMB-0149300;32211,81
+1161;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);5100097;4433915;IMB-0153511;6661,82
+1162;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2009317;612231;IMB-0165269;13970,86
+1163;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);6278320;2398001;IMB-0166377;38803,19
+1164;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2344194;0;IMB-0187330;23441,94
+1165;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);12315089;5940978;IMB-0206657;63741,11
+1166;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);29344762;14070562;IMB-0208925;152742,0
+1167;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);3944493;2834220;IMB-0210158;11102,73
+1168;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);9578195;9057955;IMB-0210686;5202,4
+1169;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);4672371;1388006;IMB-0212986;32843,65
+1170;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);52493658;48794353;IMB-0235507;36993,05
+1171;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);7803086;7294388;IMB-0244306;5086,98
+1172;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);42514329;31079480;IMB-0248579;114348,49
+1173;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);13143712;10922696;IMB-0254299;22210,16
+1174;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);5374545;4368263;IMB-0257265;10062,82
+1175;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);8289116;4387425;IMB-0259182;39016,91
+1176;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);9936722;7832697;IMB-0260816;21040,25
+1177;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);5948331;3277809;IMB-0266938;26705,22
+1178;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);7663713;6500895;IMB-0267849;11628,18
+1179;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);7560066;3822927;IMB-0277470;37371,39
+1180;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);5292324;1888032;IMB-0278341;34042,92
+1181;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2845505;2668318;IMB-0279467;1771,87
+1182;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);3193136;2658526;IMB-0285891;5346,1
+1183;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2596133;2376489;IMB-0288031;2196,44
+1184;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);31450549;12718068;IMB-0291925;187324,81
+1185;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);3363783;1939189;IMB-0293292;14245,94
+1186;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);4181125;2589147;IMB-0301069;15919,78
+1187;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);24038903;22101879;IMB-0310049;19370,24
+1188;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);26406525;13461983;IMB-0311802;129445,42
+1189;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);18277434;7002592;IMB-0314846;112748,42
+1190;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);11758329;3969738;IMB-0317561;77885,91
+1191;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);3443935;2163618;IMB-0319509;12803,17
+1192;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);23136657;6881221;IMB-0323460;162554,36
+1193;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);3090785;1117241;IMB-0324174;19735,44
+1194;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);5941583;2008197;IMB-0332946;39333,86
+1195;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2338847;990223;IMB-0344194;13486,24
+1196;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);37256567;14083627;IMB-0344259;231729,4
+1197;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);8221257;3988427;IMB-0353781;42328,3
+1198;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);6049882;5309489;IMB-0367396;7403,93
+1199;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);12367641;10137528;IMB-0368587;22301,13
+1200;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);31770500;17746521;IMB-0372661;140239,79
+1201;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2880393;2217552;IMB-0378925;6628,41
+1202;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);13979919;13246261;IMB-0383620;7336,58
+1203;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);3897376;3470070;IMB-0383768;4273,06
+1204;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);5670597;1948558;IMB-0385915;37220,39
+1205;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2418504;1191276;IMB-0393293;12272,28
+1206;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2223509;1659614;IMB-0410239;5638,95
+1207;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2817869;1377870;IMB-0424551;14399,99
+1208;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);124062647;77505360;IMB-0433296;465572,87
+1209;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2334838;2205615;IMB-0436085;1292,23
+1210;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);5390184;2695610;IMB-0443454;26945,74
+1211;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);6815177;5182051;IMB-0444301;16331,26
+1212;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);62317119;22264674;IMB-0447709;400524,45
+1213;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);5047038;1393562;IMB-0451707;36534,76
+1214;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);41694693;31100428;IMB-0466370;105942,65
+1215;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);24719559;7940353;IMB-0467185;167792,06
+1216;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);45833264;16952133;IMB-0469519;288811,31
+1217;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);6182052;3874219;IMB-0470995;23078,33
+1218;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);39940137;20947028;IMB-0471100;189931,09
+1219;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);74985121;66938876;IMB-0471357;80462,45
+1220;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);13860406;6839460;IMB-0474972;70209,46
+1221;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);26139701;13503555;IMB-0475607;126361,46
+1222;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);2681130;0;IMB-0490114;26811,3
+1223;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);4603765;2508416;IMB-0493803;20953,49
+1224;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);15346462;13882138;IMB-0494707;14643,24
+1225;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);41734970;10469626;IMB-0503202;312653,44
+1226;E09;Custo registrado acima do suportado por documento (inclui despesa de manutencao capitalizada);valor suportado (arquivo de inspecao);124450840;47479299;IMB-0507648;769715,41
+1227;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2024-09-21;2020-03-08;IMB-0002589;0,0
+1228;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-05-20;2019-11-29;IMB-0018489;0,0
+1229;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-07-21;2021-08-13;IMB-0028723;0,0
+1230;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-03-22;2020-02-01;IMB-0030516;0,0
+1231;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-03-28;2021-10-18;IMB-0042364;0,0
+1232;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-08-28;2020-05-06;IMB-0052441;0,0
+1233;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-04-17;2022-09-16;IMB-0053837;0,0
+1234;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-09-08;2023-02-13;IMB-0054168;0,0
+1235;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-05-09;2020-01-06;IMB-0070280;0,0
+1236;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-10-13;2022-06-25;IMB-0075584;0,0
+1237;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-03-20;2023-07-25;IMB-0078869;0,0
+1238;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-10-18;2022-07-13;IMB-0127390;0,0
+1239;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-04-17;2021-02-11;IMB-0129892;0,0
+1240;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-12-17;2021-07-28;IMB-0136766;0,0
+1241;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-03-27;2021-01-21;IMB-0144034;0,0
+1242;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-04-23;2020-06-26;IMB-0145040;0,0
+1243;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-02-16;2019-10-11;IMB-0145380;0,0
+1244;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-10-14;2022-03-16;IMB-0158730;0,0
+1245;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-02-22;2022-01-19;IMB-0160287;0,0
+1246;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-09-07;2022-03-31;IMB-0163289;0,0
+1247;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-07-10;2020-08-20;IMB-0171541;0,0
+1248;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-11-01;2019-10-24;IMB-0179782;0,0
+1249;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-11-19;2020-01-04;IMB-0194807;0,0
+1250;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2024-08-28;2023-04-19;IMB-0209235;0,0
+1251;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-08-11;2020-06-21;IMB-0210565;0,0
+1252;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-03-10;2022-07-11;IMB-0214847;0,0
+1253;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-05-04;2020-01-31;IMB-0248336;0,0
+1254;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-09-06;2021-05-30;IMB-0248640;0,0
+1255;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2024-12-08;2021-01-13;IMB-0256772;0,0
+1256;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-02-26;2019-09-12;IMB-0265477;0,0
+1257;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-06-11;2020-12-10;IMB-0266596;0,0
+1258;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-01-29;2022-07-20;IMB-0272786;0,0
+1259;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2024-08-06;2020-03-06;IMB-0274218;0,0
+1260;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-03-30;2023-05-30;IMB-0278700;0,0
+1261;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-09-11;2022-09-17;IMB-0279779;0,0
+1262;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-10-02;2020-09-22;IMB-0321194;0,0
+1263;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-06-15;2021-05-17;IMB-0340790;0,0
+1264;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-09-21;2021-07-13;IMB-0346227;0,0
+1265;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2024-11-23;2021-12-03;IMB-0370638;0,0
+1266;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-02-23;2022-08-10;IMB-0379308;0,0
+1267;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-07-10;2023-02-14;IMB-0393556;0,0
+1268;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2024-12-07;2020-06-13;IMB-0501652;0,0
+1269;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-03-02;2021-01-21;IMB-0514132;0,0
+1270;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2024-08-09;2022-09-28;IMB-0526110;0,0
+1271;E10;Ordem em andamento sem movimentacao ha mais de 2 anos;data_aquisicao;2025-03-03;2022-11-11;IMB-0530957;0,0
+1272;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2018-01-25;1986-10-10;IMB-0013710;0,0
+1273;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2011-11-05;1997-11-23;IMB-0014605;0,0
+1274;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2021-10-05;1995-02-23;IMB-0029345;0,0
+1275;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2022-07-01;1996-12-12;IMB-0066979;0,0
+1276;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2021-09-26;1985-05-06;IMB-0082904;0,0
+1277;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2017-09-22;1996-04-09;IMB-0084392;0,0
+1278;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2025-06-07;1994-06-01;IMB-0089073;0,0
+1279;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2024-06-20;1990-08-06;IMB-0107708;0,0
+1280;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2025-03-14;1985-07-15;IMB-0126595;0,0
+1281;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2020-04-09;1989-07-10;IMB-0149975;0,0
+1282;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2017-05-01;1995-06-18;IMB-0193169;0,0
+1283;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2013-03-04;1990-11-10;IMB-0200420;0,0
+1284;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2013-05-07;1995-09-16;IMB-0221496;0,0
+1285;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2017-03-20;1988-09-04;IMB-0260813;0,0
+1286;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2010-05-24;1993-05-29;IMB-0264309;0,0
+1287;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2023-09-30;1997-03-19;IMB-0273770;0,0
+1288;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2015-03-30;1998-02-20;IMB-0280436;0,0
+1289;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2022-03-26;1997-07-25;IMB-0290478;0,0
+1290;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2011-02-27;1993-06-23;IMB-0300571;0,0
+1291;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2022-08-10;1995-07-20;IMB-0312913;0,0
+1292;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2023-06-16;1988-01-29;IMB-0341152;0,0
+1293;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2019-04-28;1997-12-29;IMB-0349560;0,0
+1294;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2022-10-08;1994-04-24;IMB-0351155;0,0
+1295;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2019-06-22;1987-10-13;IMB-0353545;0,0
+1296;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2016-11-30;1990-03-21;IMB-0359374;0,0
+1297;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2019-06-14;1994-07-21;IMB-0367015;0,0
+1298;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2020-09-12;1990-02-11;IMB-0404494;0,0
+1299;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2019-04-08;1995-12-27;IMB-0457706;0,0
+1300;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2022-12-14;1985-03-04;IMB-0482111;0,0
+1301;E11;Data de aquisicao anterior a constituicao da companhia (21/07/1999) - erro cadastral;data_aquisicao;2020-04-05;1991-12-13;IMB-0484115;0,0

@@ -1,0 +1,122 @@
+{
+ "custo_2026": 5047.582850521436,
+ "k": 26546.76244549434,
+ "nao_descontado": 336882.1134192007,
+ "cenarios": [
+  {
+   "cenario": "Base (NE 3.3: 10,56% / 3,56%)",
+   "taxa": 0.1056,
+   "inflacao": 0.0356,
+   "choque": 1.0,
+   "desloc": 0,
+   "valor": 145192.0,
+   "delta": 0.0,
+   "pct_ME": 0.0,
+   "pct_MG": 0.0
+  },
+  {
+   "cenario": "Taxa de desconto +1 p.p. (11,56%)",
+   "taxa": 0.1156,
+   "inflacao": 0.0356,
+   "choque": 1.0,
+   "desloc": 0,
+   "valor": 130572.0,
+   "delta": -14620.0,
+   "pct_ME": -0.714,
+   "pct_MG": -0.4641
+  },
+  {
+   "cenario": "Taxa de desconto -1 p.p. (9,56%)",
+   "taxa": 0.0956,
+   "inflacao": 0.0356,
+   "choque": 1.0,
+   "desloc": 0,
+   "valor": 161994.0,
+   "delta": 16802.0,
+   "pct_ME": 0.8206,
+   "pct_MG": 0.5334
+  },
+  {
+   "cenario": "Inflacao +1 p.p. (4,56%)",
+   "taxa": 0.1056,
+   "inflacao": 0.0456,
+   "choque": 1.0,
+   "desloc": 0,
+   "valor": 163032.0,
+   "delta": 17840.0,
+   "pct_ME": 0.8713,
+   "pct_MG": 0.5663
+  },
+  {
+   "cenario": "Inflacao -1 p.p. (2,56%)",
+   "taxa": 0.1056,
+   "inflacao": 0.025599999999999998,
+   "choque": 1.0,
+   "desloc": 0,
+   "valor": 129513.0,
+   "delta": -15679.0,
+   "pct_ME": -0.7657,
+   "pct_MG": -0.4977
+  },
+  {
+   "cenario": "Pior combinacao: taxa -1 p.p. e inflacao +1 p.p.",
+   "taxa": 0.0956,
+   "inflacao": 0.0456,
+   "choque": 1.0,
+   "desloc": 0,
+   "valor": 182362.0,
+   "delta": 37170.0,
+   "pct_ME": 1.8154,
+   "pct_MG": 1.18
+  },
+  {
+   "cenario": "Custos +1% (sensibilidade de 1% - aula)",
+   "taxa": 0.1056,
+   "inflacao": 0.0356,
+   "choque": 1.01,
+   "desloc": 0,
+   "valor": 146644.0,
+   "delta": 1452.0,
+   "pct_ME": 0.0709,
+   "pct_MG": 0.0461
+  },
+  {
+   "cenario": "Custos +10%",
+   "taxa": 0.1056,
+   "inflacao": 0.0356,
+   "choque": 1.1,
+   "desloc": 0,
+   "valor": 159711.0,
+   "delta": 14519.0,
+   "pct_ME": 0.7091,
+   "pct_MG": 0.4609
+  },
+  {
+   "cenario": "Antecipacao de 2 anos no abandono",
+   "taxa": 0.1056,
+   "inflacao": 0.0356,
+   "choque": 1.0,
+   "desloc": -2,
+   "valor": 164703.0,
+   "delta": 19511.0,
+   "pct_ME": 0.9529,
+   "pct_MG": 0.6194
+  },
+  {
+   "cenario": "Premissas de 2024 (10,92% / 3,66%) sobre o mesmo cronograma",
+   "taxa": 0.1092,
+   "inflacao": 0.0366,
+   "choque": 1.0,
+   "desloc": 0,
+   "valor": 141301.0,
+   "delta": -3891.0,
+   "pct_ME": -0.19,
+   "pct_MG": -0.1235
+  }
+ ],
+ "unwinding_esperado": 14957.342400000001,
+ "unwinding_publicado": 14958,
+ "baixas_sobre_circulante_2024": 43.43859649122807,
+ "taxa_real_25": 0.0675936655079179,
+ "taxa_real_24": 0.07003665830600037
+}

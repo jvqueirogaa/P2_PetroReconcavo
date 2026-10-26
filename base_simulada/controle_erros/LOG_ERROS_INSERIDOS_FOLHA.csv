@@ -1,0 +1,91 @@
+﻿tipo_erro;chave;descricao;efeito_monetario_R$
+F01;M01943;Empregado ficticio: pagamentos de salario a matricula inexistente no cadastro;96715,26
+F01;M01944;Empregado ficticio: pagamentos de salario a matricula inexistente no cadastro;96726,96
+F01;M01945;Empregado ficticio: pagamentos de salario a matricula inexistente no cadastro;118430,55
+F01;M01946;Empregado ficticio: pagamentos de salario a matricula inexistente no cadastro;124976,25
+F01;M01947;Empregado ficticio: pagamentos de salario a matricula inexistente no cadastro;112710,06
+F01;M01948;Empregado ficticio: pagamentos de salario a matricula inexistente no cadastro;131207,58000000002
+F02;M01447;CPF identico ao de outra matricula;0,0
+F02;M00839;CPF identico ao de outra matricula;0,0
+F02;M00724;CPF identico ao de outra matricula;0,0
+F02;M01574;CPF identico ao de outra matricula;0,0
+F02;M00170;CPF identico ao de outra matricula;0,0
+F02;M01336;Conta bancaria de credito identica a de outra matricula;0,0
+F02;M00459;Conta bancaria de credito identica a de outra matricula;0,0
+F02;M01374;Conta bancaria de credito identica a de outra matricula;0,0
+F02;M01486;Conta bancaria de credito identica a de outra matricula;0,0
+F03;M01872;Salario pago apos a data de desligamento;9474,01
+F03;M01895;Salario pago apos a data de desligamento;4599,29
+F03;M01933;Salario pago apos a data de desligamento;1765,98
+F03;M01853;Salario pago apos a data de desligamento;1999,82
+F03;M01764;Salario pago apos a data de desligamento;3520,02
+F03;M01909;Salario pago apos a data de desligamento;3750,15
+F03;M01937;Salario pago apos a data de desligamento;9496,91
+F03;M01911;Salario pago apos a data de desligamento;3311,69
+F04;M01050;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01492;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01941;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01246;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01665;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00279;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01451;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00192;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01577;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01116;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00634;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01723;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00138;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00214;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00293;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00987;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00655;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00751;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01070;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01271;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00606;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00265;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01489;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01178;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01558;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00079;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01661;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00927;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M00469;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F04;M01866;Cadastro de empregado sem aprovacao independente (maker-checker);0,0
+F05;M01206;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M00351;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M01094;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M00912;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M00478;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M00524;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M00167;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M00610;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M01360;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M01640;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M01548;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F05;M01164;Reajuste salarial > 30% sem aprovacao da Diretoria (alcada);0,0
+F06;PROV-009133;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;7160,27
+F06;PROV-009099;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;11164,69
+F06;PROV-008805;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;2453,26
+F06;PROV-009087;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;205733,14
+F06;PROV-009102;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;165694,31
+F06;PROV-008941;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;12393,86
+F06;PROV-008830;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;14309,7
+F06;PROV-008958;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;118129,51
+F06;PROV-009022;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;23994,97
+F06;PROV-008935;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;124564,85
+F06;PROV-008948;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;59288,83
+F06;PROV-008811;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;117906,9
+F06;PROV-008993;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;220563,47
+F06;PROV-008872;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;104153,77
+F06;PROV-008988;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;196940,67
+F06;PROV-008861;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;3176,78
+F06;PROV-008881;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;55066,0
+F06;PROV-008773;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;7119,07
+F06;PROV-009045;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;122670,16
+F06;PROV-009149;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;13369,53
+F06;PROV-009137;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;130098,53
+F06;PROV-008959;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;34091,75
+F06;PROV-009073;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;45419,78
+F06;PROV-009065;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;62821,26
+F06;PROV-008852;Obrigacao com vencimento a partir de 01/01/2027 classificada no circulante;29348,47

@@ -1,0 +1,100 @@
+﻿teste;chave;detalhe;valor_em_risco
+G01_EMPREGADO_FICTICIO;M01943;Matricula paga na folha e inexistente no cadastro;96715,26
+G01_EMPREGADO_FICTICIO;M01944;Matricula paga na folha e inexistente no cadastro;96726,96
+G01_EMPREGADO_FICTICIO;M01945;Matricula paga na folha e inexistente no cadastro;118430,55
+G01_EMPREGADO_FICTICIO;M01946;Matricula paga na folha e inexistente no cadastro;124976,25
+G01_EMPREGADO_FICTICIO;M01947;Matricula paga na folha e inexistente no cadastro;112710,06
+G01_EMPREGADO_FICTICIO;M01948;Matricula paga na folha e inexistente no cadastro;131207,58000000002
+G02_CADASTRO_DUPLICADO;M00170;CPF igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M00724;CPF igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M00839;CPF igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M00945;CPF igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M00954;CPF igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M01060;CPF igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M01447;CPF igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M01451;CPF igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M01574;CPF igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M01703;CPF igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M00106;conta bancaria igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M00459;conta bancaria igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M00599;conta bancaria igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M01336;conta bancaria igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M01374;conta bancaria igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M01466;conta bancaria igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M01486;conta bancaria igual ao de outra matricula;0,0
+G02_CADASTRO_DUPLICADO;M01587;conta bancaria igual ao de outra matricula;0,0
+G03_PAGAMENTO_SEM_VINCULO;M01764;Salario pago apos o desligamento;3520,02
+G03_PAGAMENTO_SEM_VINCULO;M01853;Salario pago apos o desligamento;1999,82
+G03_PAGAMENTO_SEM_VINCULO;M01872;Salario pago apos o desligamento;9474,01
+G03_PAGAMENTO_SEM_VINCULO;M01895;Salario pago apos o desligamento;4599,29
+G03_PAGAMENTO_SEM_VINCULO;M01909;Salario pago apos o desligamento;3750,15
+G03_PAGAMENTO_SEM_VINCULO;M01911;Salario pago apos o desligamento;3311,69
+G03_PAGAMENTO_SEM_VINCULO;M01933;Salario pago apos o desligamento;1765,98
+G03_PAGAMENTO_SEM_VINCULO;M01937;Salario pago apos o desligamento;9496,91
+G04_MAKER_CHECKER;M00079;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00138;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00192;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00214;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00265;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00279;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00293;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00469;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00606;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00634;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00655;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00751;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00927;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M00987;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01050;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01070;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01116;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01178;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01246;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01271;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01451;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01489;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01492;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01558;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01577;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01661;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01665;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01723;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01866;Cadastro sem aprovacao independente;0,0
+G04_MAKER_CHECKER;M01941;Cadastro sem aprovacao independente;0,0
+G05_REAJUSTE_FORA_ALCADA;M00167;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M00351;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M00478;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M00524;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M00610;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M00912;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M01094;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M01164;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M01206;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M01360;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M01548;Reajuste > 30% aprovado abaixo da alcada;0,0
+G05_REAJUSTE_FORA_ALCADA;M01640;Reajuste > 30% aprovado abaixo da alcada;0,0
+G06_CLASSIFICACAO_CP_LP;PROV-008773;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);7119,07
+G06_CLASSIFICACAO_CP_LP;PROV-008805;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);2453,26
+G06_CLASSIFICACAO_CP_LP;PROV-008811;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);117906,9
+G06_CLASSIFICACAO_CP_LP;PROV-008830;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);14309,7
+G06_CLASSIFICACAO_CP_LP;PROV-008852;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);29348,47
+G06_CLASSIFICACAO_CP_LP;PROV-008861;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);3176,78
+G06_CLASSIFICACAO_CP_LP;PROV-008872;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);104153,77
+G06_CLASSIFICACAO_CP_LP;PROV-008881;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);55066,0
+G06_CLASSIFICACAO_CP_LP;PROV-008935;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);124564,85
+G06_CLASSIFICACAO_CP_LP;PROV-008941;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);12393,86
+G06_CLASSIFICACAO_CP_LP;PROV-008948;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);59288,83
+G06_CLASSIFICACAO_CP_LP;PROV-008958;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);118129,51
+G06_CLASSIFICACAO_CP_LP;PROV-008959;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);34091,75
+G06_CLASSIFICACAO_CP_LP;PROV-008988;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);196940,67
+G06_CLASSIFICACAO_CP_LP;PROV-008993;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);220563,47
+G06_CLASSIFICACAO_CP_LP;PROV-009022;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);23994,97
+G06_CLASSIFICACAO_CP_LP;PROV-009045;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);122670,16
+G06_CLASSIFICACAO_CP_LP;PROV-009065;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);62821,26
+G06_CLASSIFICACAO_CP_LP;PROV-009073;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);45419,78
+G06_CLASSIFICACAO_CP_LP;PROV-009087;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);205733,14
+G06_CLASSIFICACAO_CP_LP;PROV-009099;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);11164,69
+G06_CLASSIFICACAO_CP_LP;PROV-009102;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);165694,31
+G06_CLASSIFICACAO_CP_LP;PROV-009133;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);7160,27
+G06_CLASSIFICACAO_CP_LP;PROV-009137;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);130098,53
+G06_CLASSIFICACAO_CP_LP;PROV-009149;Vence a partir de 01/01/2027 e esta no circulante (reclassificar para nao circulante);13369,53
