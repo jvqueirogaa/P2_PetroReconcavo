@@ -2,6 +2,8 @@
 
 **P2 – Auditoria 1 (UnB, 2026.2)** · Preparador: **matrícula 211059370** · Versão de entrega: **v1.0 – 25/10/2026**
 
+Repositório: https://github.com/jvqueirogaa/P2_PetroReconcavo
+
 > Trabalho **acadêmico e didático**. Usa só fontes públicas e dados **sintéticos** identificados como tais. **Não** contém opinião de auditoria e **não** representa trabalho profissional independente. Nenhuma empresa, auditor, cliente ou fornecedor foi contatado.
 
 ## 1. O que está aqui
@@ -55,7 +57,7 @@ python dossie/gerar_dossie.py            # dossiê em PDF (requer: markdown, pla
 - **Semente fixa:** 211059370 (matrícula). O *hash* SHA-256 do conteúdo da base está em `base_simulada/METADADOS_GERACAO.json`.
 - As planilhas trazem **fórmulas**. Ao abrir no Excel ou no LibreOffice, os valores são recalculados.
 - Etapas 1 e 2 (`etapa1_registro_fontes.py`, `etapa2_diagnostico.py`) leem os arquivos já baixados em `fontes/`. Os *downloads* originais foram feitos pelo navegador (datas e horas no `REG_FONTES`).
-- No Google Colab: abrir o notebook, enviar a pasta do repositório (ou cloná-lo) e executar as células em ordem.
+- No Google Colab: abrir o notebook e executar as células em ordem; a primeira célula clona `https://github.com/jvqueirogaa/P2_PetroReconcavo.git`.
 
 ## 5. Resumo dos números-chave
 | Item | Valor | PT |
